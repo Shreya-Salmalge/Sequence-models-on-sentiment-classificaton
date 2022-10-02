@@ -24,11 +24,6 @@ Used t-SNE to plot the text representations obtained using the above-mentioned m
 
 
 
-![plot](./images/1_tsne_before.png)<br>
-![plot](./images/1_tsne_after.png)
-
-
-
 ## 2. Recurrent Units (RNN, LSTM, GRU)
 Papers Referenced:<br>
 <ul>
